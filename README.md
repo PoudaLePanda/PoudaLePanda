@@ -6,7 +6,7 @@
 ## 📜 🇬🇧 My recent blog posts
 
 - [Mermaid JS support](/posts/mermaid-support/) (1 year ago)
-- [HTML and CSS only tabs](/posts/html-and-css-only-tabs/) (1 year ago)
+- [HTML and CSS only tabs](/posts/html-and-css-only-tabs/) (2 years ago)
 - [Markdown Syntax Guide](/posts/markdown-syntax/) (4 years ago)
 - [Rich Content](/posts/rich-content/) (4 years ago)
 - [More Rich Content](/posts/more-rich-content/) (4 years ago)
