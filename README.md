@@ -3,20 +3,6 @@
 ## Hi there 👋
 
 
-## 📜 🇬🇧 My recent blog posts
-
-- [Mermaid JS support](/posts/mermaid-support/) (1 year ago)
-- [HTML and CSS only tabs](/posts/html-and-css-only-tabs/) (2 years ago)
-- [Markdown Syntax Guide](/posts/markdown-syntax/) (4 years ago)
-- [Rich Content](/posts/rich-content/) (4 years ago)
-- [More Rich Content](/posts/more-rich-content/) (4 years ago)
-- [Placeholder Text](/posts/placeholder-text/) (4 years ago)
-- [Math Typesetting](/posts/math-typesetting/) (4 years ago)
-- [Emoji Support](/posts/emoji-support/) (4 years ago)
-- [External Page: Hugo Coder Wiki](/posts/hugo-coder-wiki/) (4 years ago)
-- [À propos](/about/) (4 years ago)
-
-#### 👷 Check out what I'm currently working on
 
 #### 🌱 My latest projects
 
