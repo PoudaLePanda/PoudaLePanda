@@ -3,12 +3,6 @@
 ## Hi there 👋
 
 
-## 📜 🇬🇧 My recent blog posts
-{{range rss "https://leomeyniel.fr/index.xml" 10}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
-#### 👷 Check out what I'm currently working on
 
 #### 🌱 My latest projects
 {{range recentRepos 10}}
