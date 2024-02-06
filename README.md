@@ -20,7 +20,7 @@
 
 #### ⭐ Recent Stars
 
-- [didinj/node-express-mongoose-passport-jwt-rest-api-auth](https://github.com/didinj/node-express-mongoose-passport-jwt-rest-api-auth) - Node, express, mongoose, passport and JWT REST API authentication example (5 years ago)
+- [didinj/node-express-mongoose-passport-jwt-rest-api-auth](https://github.com/didinj/node-express-mongoose-passport-jwt-rest-api-auth) - Node, express, mongoose, passport and JWT REST API authentication example (6 years ago)
 
 #### 👯 Check out some of my recent followers
 
