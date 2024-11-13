@@ -14,7 +14,7 @@ Frontend developer since 2016, I specialize in building applications with Angula
 *   🌍  I'm based in Cahors, France
 *   🖥️  See my portfolio at [leomeyniel.dev](http://leomeyniel.dev)
 *   ✉️  You can contact me at [contact@leomeyniel.dev](mailto:contact@leomeyniel.dev)
-*   🧠  I'm learning coolify, appwrite, nestjs, bun, deno and all the frontend frameworks I can find :)### Skills 
+*   🧠  I'm learning coolify, appwrite, nestjs, bun, deno and all the frontend frameworks I can find :)
 
 
  **<h3 align="center">Skills</h3>**
