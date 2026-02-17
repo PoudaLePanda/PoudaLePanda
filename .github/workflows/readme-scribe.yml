@@ -11,9 +11,10 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           ref: main
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
       - name: Render Template
         uses: muesli/readme-scribe@master
         env:
