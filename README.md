@@ -20,7 +20,10 @@ Frontend developer since 2016, I specialize in building applications with Angula
 ### Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,angular,astro,tailwind,nodejs,bun,deno,nestjs,sqlite,gitlab,githubactions,vscode,appwrite,supabase&perline=8" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=svelte,nextjs,nestjs,astro,tailwind,shadcn,bun,nodejs,gitlab,zed&perline=5" alt="Skills" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Claude_Code-d97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
 </p>
 
 ### Featured Projects
