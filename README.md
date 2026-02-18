@@ -2,9 +2,9 @@
 
 # Leo Meyniel
 
-## Developpeur Web Senior
+## Developpeur Web
 
-+10 ans d'experience dans le developpement web. Je conçois et developpe des applications frontend et fullstack avec des frameworks modernes comme Svelte, Next.js ou Astro, ainsi que des solutions web-to-print. Adepte du code propre, de l'automatisation et des outils IA pour accelerer les workflows de developpement.
++10 ans d'experience dans le developpement web. Je conçois et developpe des applications frontend et fullstack avec des frameworks modernes comme Svelte, Next.js ou Astro, ainsi que des solutions web-to-print. Adepte de l'automatisation et des outils IA pour accelerer les workflows de developpement.
 
 ### Me contacter
 
@@ -14,7 +14,6 @@
 - Cahors, France
 - Portfolio : [leomeyniel.dev](https://leomeyniel.dev)
 - Contact : [contact@leomeyniel.dev](mailto:contact@leomeyniel.dev)
-- Blog : [leomeyniel.fr](https://www.leomeyniel.fr/)
 
 ### Stack technique
 
