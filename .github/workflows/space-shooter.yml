@@ -2,8 +2,8 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:  # Allow manual trigger
+    - cron: "0 0 * * *" # Daily at midnight UTC
+  workflow_dispatch: # Allow manual trigger
 
 permissions:
   contents: write
@@ -16,7 +16,7 @@ jobs:
 
       - uses: czl9707/gh-space-shooter@v1
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'game.gif'
+          github-token: ${{ secrets.GH_PAT }}
+          output-path: "game.gif"
           # write-dataurl-to: 'README.md'   # for dataurl generation.
-          strategy: 'random'
+          strategy: "random"
