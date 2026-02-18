@@ -1,23 +1,22 @@
 ![My GitHub Game](game.gif)
 
-# Hi, I'm Leo Meyniel
+# Leo Meyniel
 
-## Web Developer
+## Developpeur Web Senior
 
-Frontend developer since 2016, I specialize in building applications with Angular, Next.js, and web-to-print solutions. Passionate about technology, metal music, and gaming, I'm driven to contribute to innovative projects.
++10 ans d'experience dans le developpement web. Je conçois et developpe des applications frontend et fullstack avec des frameworks modernes comme Svelte, Next.js ou Astro, ainsi que des solutions web-to-print. Adepte du code propre, de l'automatisation et des outils IA pour accelerer les workflows de developpement.
 
-### Connect with me
+### Me contacter
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PoudaLePanda)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-meyniel-dev-full-stack)
 
-- Based in Cahors, France
-- Portfolio: [leomeyniel.dev](https://leomeyniel.dev)
-- Contact: [contact@leomeyniel.dev](mailto:contact@leomeyniel.dev)
-- Blog: [leomeyniel.fr](https://www.leomeyniel.fr/)
-- Currently learning Coolify, Appwrite, NestJS, Bun, Deno
+- Cahors, France
+- Portfolio : [leomeyniel.dev](https://leomeyniel.dev)
+- Contact : [contact@leomeyniel.dev](mailto:contact@leomeyniel.dev)
+- Blog : [leomeyniel.fr](https://www.leomeyniel.fr/)
 
-### Skills
+### Stack technique
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=svelte,nextjs,nestjs,astro,tailwind,shadcn,bun,nodejs,gitlab,zed&perline=5" alt="Skills" />
@@ -26,17 +25,9 @@ Frontend developer since 2016, I specialize in building applications with Angula
   <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
 </p>
 
-### Featured Projects
-
-<!-- Replace with your actual pinned repos -->
-| Project | Description |
-|---------|-------------|
-| [dotfiles](https://github.com/PoudaLePanda/dotfiles) | Configuration files and Bash scripts for shell and app customization |
-<!-- Add more projects here -->
-
-### GitHub Stats
+### Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PoudaLePanda&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoudaLePanda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PoudaLePanda&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoudaLePanda&layout=compact&theme=tokyonight&hide_border=true&locale=fr" alt="Top Langages" height="165" />
 </p>
