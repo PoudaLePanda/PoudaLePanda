@@ -53,6 +53,8 @@ Plateforme complète de gestion et de déploiement automatisé de sites web, ass
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PoudaLePanda&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoudaLePanda&layout=compact&theme=tokyonight&hide_border=true&locale=fr" alt="Top Langages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PoudaLePanda&theme=tokyonight" alt="GitHub Profile Details" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PoudaLePanda&theme=tokyonight" alt="Top Languages by Repo" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PoudaLePanda&theme=tokyonight" alt="Top Languages by Commit" height="165" />
 </p>
